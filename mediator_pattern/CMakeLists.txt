@@ -1,4 +1,4 @@
-project(command_pattern)
+project(mediator_pattern)
 
 add_executable(${PROJECT_NAME} exec.cpp)
 
