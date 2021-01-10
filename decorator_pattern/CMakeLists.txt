@@ -1,4 +1,4 @@
-project(observer_pattern)
+project(decorator_pattern)
 
 add_executable(${PROJECT_NAME} exec.cpp)
 
